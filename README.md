@@ -1,2 +1,2 @@
-# SpringBootAPI
-Basic backend setup with spring boot interacting with MYSQL database. 
+# springboot-react-crud
+Basic backend setup with Spring Boot interacting with a MySQL database and API calls being requested from a React frontend.
